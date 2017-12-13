@@ -10,7 +10,7 @@
   "binary": {
     "module_name": "mapnik",
     "module_path": "./lib/binding/",
-    "host": "https://mapbox-node-binary.s3.amazonaws.com",
+    "host": "http://7xjqya.com1.z0.glb.clouddn.com",
     "remote_path": "./{module_name}/v{version}/",
     "package_name": "{node_abi}-{platform}-{arch}-{configuration}{toolset}.tar.gz"
   },
